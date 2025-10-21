@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.exe
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.deps.json
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.runtimeconfig.json
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.dll
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.pdb
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.Form1.resources
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.AssemblyInfo.cs
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.dll
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\refint\UserCheck.dll
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.pdb
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.genruntimeconfig.cache
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\ref\UserCheck.dll
+C:\Users\user\Desktop\c#\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.Form2.resources
